@@ -15,3 +15,9 @@ No, not really. A unit test is good for small pieces of logic, but messaging inv
 ### 2) Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not?
 
 Yes, definitely. The max length check is just logic—it’s a small, clear rule: “stop at 80 characters.” Perfect for a unit test. You can test short, long, and exact-length messages fast without needing real users or servers.
+
+
+
+### Expose: [https://parrwiz.github.io/Lab5_Starter/expose.html](https://parrwiz.github.io/Lab5_Starter/expose.html)
+
+### Explore: [https://parrwiz.github.io/Lab5_Starter/explore.html](https://parrwiz.github.io/Lab5_Starter/explore.html)
